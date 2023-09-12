@@ -1,2 +1,5 @@
 historiaJbent.txt
-este documento fue modificado para probarlo
+este documento fue modificado para probarlo.
+estas en el capitulo 9, comandos avanzados.
+prueba de guardado de documento
+
