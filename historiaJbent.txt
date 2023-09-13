@@ -2,4 +2,6 @@ historiaJbent.txt
 este documento fue modificado para probarlo.
 estas en el capitulo 9, comandos avanzados.
 prueba de guardado de documento
+13/09/23 actualizacion nueva de documento, prueba 3.
+aun en el capitulo 9 jajaja 
 
